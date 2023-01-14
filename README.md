@@ -1,2 +1,2 @@
-# homeworks
+# project_studies
 my first title
